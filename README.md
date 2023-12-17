@@ -14,4 +14,4 @@ How to execute the project:
 2. Run the python code
 3. Two windows will pop up:- The first one give the Hue , Saturation , value of the colour of sheet, the second will display the output.
 4. adjust the hsv values for the color of the sheet to be in range.
-5. 
+
